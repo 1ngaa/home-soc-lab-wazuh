@@ -68,7 +68,7 @@ sudo /var/ossec/bin/agent_control -l
 - имя: `DESKTOP-8D6DM90`;
 - адрес в списке: `any`.
 
-Статус агента также подтверждён в графическом интерфейсе Wazuh. Скриншот: [`03-agent-active-gui.png`](../screenshots/03-agent-active-gui.png).
+Статус агента также подтверждён в графическом интерфейсе Wazuh. Скриншот: [`03-agent-active-gui.png`](../screenshots/03-agent-active-dashboard.png).
 
 ### 2.4. Установка и настройка Sysmon
 
