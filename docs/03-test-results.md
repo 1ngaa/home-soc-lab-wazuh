@@ -13,8 +13,8 @@
 Это подтверждает, что Wazuh Manager видит зарегистрированный Windows Agent и отображает его активный статус.
 
 **Скриншоты:**
-- [02-agent-active-cli.png](../screenshots/02-agent-active-cli.png)
-- [03-agent-active-gui.png](../screenshots/03-agent-active-gui.png)
+- [02-agent-active-cli.png](../screenshots/02-agent-active.png)
+- [03-agent-active-gui.png](../screenshots/03-agent-active-dashboard.png)
 
 ## 2. Анализ событий Sysmon
 
