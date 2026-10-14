@@ -68,7 +68,7 @@ sudo /var/ossec/bin/agent_control -l
 - имя: `DESKTOP-8D6DM90`;
 - адрес в списке: `any`.
 
-Статус агента также подтверждён в графическом интерфейсе Wazuh. Скриншот: [`03-agent-active-gui.png`](screenshots/03-agent-active-gui.png).
+Статус агента также подтверждён в графическом интерфейсе Wazuh. Скриншот: [`03-agent-active-gui.png`](../screenshots/03-agent-active-gui.png).
 
 ### 2.4. Установка и настройка Sysmon
 
@@ -193,7 +193,7 @@ Unable to connect to socket 'queue/db/wdb'
 | `92031` | Account Discovery | `T1087` — Account Discovery |
 | `92027` | PowerShell | `T1059.001` — PowerShell |
 
-Подробное описание сценариев и подтверждающие материалы приведены в каталоге [`screenshots/`](screenshots/).
+Подробное описание сценариев и подтверждающие материалы приведены в каталоге [`screenshots/`](../screenshots/).
 
 ## 7. Итоги
 
